@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo3" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo4" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo5" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo6" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-demo7" />
+    <file type="web" url="file://$PROJECT_DIR$/shirodemo2" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/shiro-demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/shirodemo2/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

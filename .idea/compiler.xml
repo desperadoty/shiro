@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiro-demo1" />
+        <module name="shiro-demo2" />
+        <module name="shiro-demo3" />
+        <module name="shiro-demo5" />
+        <module name="shiro-demo6" />
+        <module name="shiro-demo7" />
+      </profile>
+      <profile name="Annotation profile for Shiro" enabled="true">
+        <sourceOutputDir name="../shiro-demo3/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../shiro-demo3/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiro-demo4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Shiro" target="1.5" />
+      <module name="shiro-demo1" target="1.5" />
+      <module name="shiro-demo2" target="1.5" />
+      <module name="shiro-demo3" target="1.5" />
+      <module name="shiro-demo4" target="1.5" />
+      <module name="shiro-demo5" target="1.5" />
+      <module name="shiro-demo6" target="1.5" />
+      <module name="shiro-demo7" target="1.5" />
+      <module name="shirodemo2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
